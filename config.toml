@@ -1,0 +1,37 @@
+baseURL = "http://unixgang.netlify.app/"
+languageCode = "en-us"
+title = "Linux Ricing Blog | Winman"
+theme = "terminal"
+
+description = "Generic description!"
+summaryLength = 15
+paginate = 5
+copyright = "Unless explicitly stated, all content released here are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)."
+canonifyURLs = true
+
+[params]
+    # The subtitle of the blog. Mostly appears in the <title> tag.
+    subtitle = "Linux Ricing for You Normies"
+    keywords = ["unixgang", "ricing", "linux"]
+
+    # The tagline that'll appear in the homepage as the first header. 
+    tagline = "Helping new linux users make their desktops not look like s**t"
+
+        # ... 
+    enableThemeToggle = true
+    
+    # Indicates if the site sections should be listed instead.
+    # Requires `hidePostsOnHome` to be disabled.
+    # listSiteSectionsOnHome = true 
+
+    # Puts a pagination section on the posts linking to the previous and next posts.
+    enableContentPagination = true
+    
+    # Indicates to show the icon whether the link leads to a page or a section. 
+    # The effect is visible if `hidePostsOnHome` is at least disabled. 
+    # showPageTypeIcon = true
+
+    # 404
+    notFoundHeader = "404 Not Found :("
+    notFoundLinkMessage = "Now get back here."
+    notFoundMessage = "I see you're an explorer. I like that."
