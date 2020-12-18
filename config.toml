@@ -1,4 +1,4 @@
-baseURL = "http://unixgang.netlify.app"
+baseURL = "https://unixgang.netlify.app/"
 languageCode = "en-us"
 title = "Linux Ricing Blog | Winman"
 theme = "terminal"
