@@ -15,18 +15,6 @@
   </url>
   
   <url>
-    <loc>https://unixgang.netlify.app/post/</loc>
-    <lastmod>2020-12-18T10:24:22-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://unixgang.netlify.app/posts/</loc>
-    <lastmod>2020-12-18T10:24:22-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://unixgang.netlify.app/categories/</loc>
     <lastmod>2020-12-18T10:24:22-05:00</lastmod>
   </url>
@@ -52,13 +40,13 @@
   </url>
   
   <url>
-    <loc>https://unixgang.netlify.app/post/welcome-to-winman/</loc>
-    <lastmod>2020-12-18T10:24:22-05:00</lastmod>
+    <loc>https://unixgang.netlify.app/post/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://unixgang.netlify.app/posts/welcome-to-winman/</loc>
-    <lastmod>2020-12-18T10:24:22-05:00</lastmod>
+    <loc>https://unixgang.netlify.app/posts/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

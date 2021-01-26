@@ -4,7 +4,7 @@ author: Orangemn6
 tags: "other"
 categories: "other"
 date: 2020-12-18T10:24:22-05:00
-draft: true
+draft: false
 ---
 
 ## Welcome to WinMan!
