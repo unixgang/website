@@ -47,5 +47,5 @@ canonifyURLs = true
     notFoundHeader = "404 Not Found :("
     notFoundLinkMessage = "Now get back here."
     notFoundMessage = "I see you're an explorer. I like that."
-	hidePostsOnHome = "false"
-	enableBreadcrumbs = "true"
+	hidePostsOnHome = false
+	enableBreadcrumbs = true

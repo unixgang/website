@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linux Ricing Blog | Winman</title>
-    <link>https://unixgang.netlify.app/</link>
-    <description>Recent content on Linux Ricing Blog | Winman</description>
+    <title>other on Linux Ricing Blog | Winman</title>
+    <link>https://unixgang.netlify.app/categories/other/</link>
+    <description>Recent content in other on Linux Ricing Blog | Winman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Unless explicitly stated, all content released here are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).</copyright>
-    <lastBuildDate>Fri, 18 Dec 2020 10:24:22 -0500</lastBuildDate><atom:link href="https://unixgang.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Dec 2020 10:24:22 -0500</lastBuildDate><atom:link href="https://unixgang.netlify.app/categories/other/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Winman</title>
       <link>https://unixgang.netlify.app/articles/welcome-to-winman/</link>
@@ -33,15 +33,6 @@
       
       <guid>https://unixgang.netlify.app/posts/welcome-to-winman/</guid>
       <description>Welcome to WinMan! Welcome to winman, the website made by the unixgang that takes your sh**-looking unix desktop and make it a beauty.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://unixgang.netlify.app/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unixgang.netlify.app/about/</guid>
-      <description>ABout </description>
     </item>
     
   </channel>

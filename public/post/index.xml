@@ -6,6 +6,16 @@
     <description>Recent content on Linux Ricing Blog | Winman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Unless explicitly stated, all content released here are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).</copyright><atom:link href="https://unixgang.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Unless explicitly stated, all content released here are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).</copyright>
+    <lastBuildDate>Fri, 18 Dec 2020 10:24:22 -0500</lastBuildDate><atom:link href="https://unixgang.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Winman</title>
+      <link>https://unixgang.netlify.app/post/welcome-to-winman/</link>
+      <pubDate>Fri, 18 Dec 2020 10:24:22 -0500</pubDate>
+      
+      <guid>https://unixgang.netlify.app/post/welcome-to-winman/</guid>
+      <description>Welcome to WinMan! Welcome to winman, the website made by the unixgang that takes your sh**-looking unix desktop and make it a beauty.</description>
+    </item>
+    
   </channel>
 </rss>
